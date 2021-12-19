@@ -1,2 +1,2 @@
 # Desafio DIO Banco Inter 
-positório criado para desáfios de projetos 
+Repositório criado para desáfios de projetos 
